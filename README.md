@@ -1,51 +1,54 @@
 # 📊 Sales Analysis Dashboard  
 **Executive Performance Overview | January – December 2025**
 
----
-
-## 1. Overview
-The **Sales Analysis Dashboard** delivers a consolidated view of organizational sales performance for the period **January to December 2025**. It is designed to support executive oversight, strategic evaluation, and operational decision-making through clear, interactive, and insight-driven visualizations.
-
-The dashboard enables stakeholders to monitor revenue performance, customer activity, sales efficiency, and regional and category-level contributions.
+![Sales Analysis Dashboard](images/Sales_Analysis_Dashboard.png)
 
 ---
 
-## 2. Purpose and Objectives
-The primary objectives of this dashboard are to:
+## 1. Project Overview
+The **Sales Analysis Dashboard** provides a consolidated and interactive view of organizational sales performance from **January to December 2025**.  
+It is designed to support **executive oversight, strategic evaluation, and operational decision-making** by presenting key sales metrics and trends in a clear and intuitive format.
 
-- Provide management with a holistic view of sales performance  
-- Track revenue trends and identify seasonality patterns  
-- Highlight top-performing customers, products, and regions  
-- Analyze sales mix across product categories  
-- Support evidence-based strategic and operational decisions  
+The dashboard enables stakeholders to monitor **revenue performance, customer activity, sales efficiency, and regional and category-level contributions** at a glance.
+
+---
+
+## 2. Business Objectives
+The dashboard was developed to:
+
+- Provide management with a **holistic view of sales performance**
+- Track **revenue trends** and identify seasonality patterns
+- Highlight **top-performing customers, products, and regions**
+- Analyze the **sales mix across product categories**
+- Support **data-driven strategic and operational decisions**
 
 ---
 
 ## 3. Key Performance Indicators (KPIs)
-The dashboard tracks the following core KPIs:
+The following KPIs are tracked within the dashboard:
 
-- **Total Revenue** – Aggregate revenue generated within the selected period  
-- **Total Orders** – Number of successfully completed customer orders  
-- **Total Customers** – Count of active customers during the reporting period  
-- **Units Sold** – Total volume of products sold  
+- **Total Revenue** – Aggregate revenue generated during the selected period  
+- **Total Orders** – Number of completed customer orders  
+- **Total Customers** – Count of active customers  
+- **Units Sold** – Total quantity of products sold  
 - **Conversion Rate** – Measure of sales effectiveness in converting prospects into customers  
 
-Each KPI is supported by **month-over-month indicators** to provide directional insight into performance trends.
+Each KPI includes **month-over-month indicators** to provide directional insight into performance trends.
 
 ---
 
 ## 4. Dashboard Components
 
 ### 4.1 Monthly Revenue Trend
-- Line chart illustrating revenue progression from January to December  
-- Enables identification of growth momentum, volatility, and seasonal effects  
+- Line chart showing revenue performance from January to December  
+- Enables identification of **growth momentum, volatility, and seasonal patterns**
 
 ### 4.2 Top 5 Customers by Revenue
-- Bar chart ranking customers based on revenue contribution  
-- Highlights revenue concentration and key account dependencies  
+- Bar chart ranking customers by revenue contribution  
+- Highlights **key accounts and revenue concentration risks**
 
 ### 4.3 Sales by Product Category
-- Donut chart showing proportional revenue contribution across categories:
+- Donut chart displaying revenue contribution across product categories:
   - Home & Garden  
   - Electronics  
   - Clothing  
@@ -61,29 +64,29 @@ Each KPI is supported by **month-over-month indicators** to provide directional 
 
 ### 4.5 Top 5 Products
 - Product-level revenue comparison  
-- Supports product performance evaluation and portfolio prioritization  
+- Supports **product performance evaluation and portfolio optimization**
 
 ---
 
 ## 5. Filters and Interactivity
-The dashboard includes interactive slicers that allow users to dynamically refine analysis by:
+The dashboard includes interactive slicers that allow users to dynamically analyze performance by:
 
-- **Reporting Month**  
-- **Geographical Region**  
-- **Product Category**  
+- **Reporting Month**
+- **Geographical Region**
+- **Product Category**
 
-These features support deeper exploration of trends and segment-level performance.
+These features enable **deep-dive analysis and segment-level insights** without leaving the dashboard.
 
 ---
 
 ## 6. Strategic Insights Enabled
 The dashboard supports management in:
 
-- Monitoring revenue growth and performance stability  
-- Identifying customer, product, and regional concentration risks  
-- Evaluating sales mix and category performance  
-- Assessing sales efficiency and conversion effectiveness  
-- Informing short- and medium-term strategic planning  
+- Monitoring **revenue growth and performance stability**
+- Identifying **customer, product, and regional concentration risks**
+- Evaluating **sales mix and category performance**
+- Assessing **sales efficiency and conversion effectiveness**
+- Informing **short- and medium-term strategic planning**
 
 ---
 
@@ -91,20 +94,20 @@ The dashboard supports management in:
 This dashboard is designed for:
 
 - Executive Management  
-- Sales and Business Development Leadership  
+- Sales and Business Development Leaders  
 - Strategy and Performance Management Teams  
 - Finance and Planning Functions  
 
 ---
 
 ## 8. Tools and Data
-- **Platform:** Microsoft Power BI  
+- **Visualization Tool:** Microsoft Power BI  
 - **Data Source:** Internal sales transaction systems  
 - **Reporting Period:** January – December 2025  
 
 ---
 
 ## 9. Notes and Assumptions
-- All KPI values represent **aggregated performance for the selected reporting period**  
-- Month-over-month indicators are included for trend awareness and directional analysis  
-- Visualizations are optimized for **executive and management-level reporting**  
+- All KPIs represent **aggregated performance** for the selected reporting period  
+- Month-over-month indicators provide **trend awareness and directional analysis**  
+- Visualizations are optimized for **executive-level reporting and decision-making**
