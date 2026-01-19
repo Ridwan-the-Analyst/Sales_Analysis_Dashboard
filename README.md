@@ -1,7 +1,7 @@
 # 📊 Sales Analysis Dashboard  
 **Executive Performance Overview | January – December 2025**
 
-![Sales Analysis Dashboard](Sales_Analysis_Dashboard.png)
+![Sales Analysis Dashboard](Sales_Analysis_Dashboard.jpg)
 
 ---
 
